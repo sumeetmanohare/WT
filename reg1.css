@@ -1,0 +1,24 @@
+
+h1{
+
+	color: white;
+	padding:5px;
+	background-color:black;
+	margin:auto;
+	text-align:center;
+	border-style:solid;
+	border-bottom: 5px solid red;
+	
+	margin-right:100px;
+	margin-left:100px;	
+   }
+
+body {
+			text-align:center;			
+			background-image: url("reading-925589_960_720.jpg");
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:149%,75%;
+	}
+
+
